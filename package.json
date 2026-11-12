@@ -1,0 +1,9 @@
+{
+  "name": "who-walks-boris",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Учебный micro-MVP «Кто выгуливает Бориса» для вымышленной компании «Догяндекс»",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
